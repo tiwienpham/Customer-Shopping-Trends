@@ -191,18 +191,18 @@ Elbow Method: The Elbow method is a popular technique for determining the optima
 
 ![Cluster Visualization based on Age and Purchase Amount](https://github.com/tiwienpham/Customer-Shopping-Trends/assets/119265751/c4f4f2c8-6c43-4871-9ed9-e59fd27e3a56)
 
-**Customers aged 20-45 with high spending power (Cluster 0):**
+**- Customers aged 20-45 with high spending power (Cluster 0):**
 This is a group of customers with high potential for purchasing and could be a significant part of sales revenue. Therefore, the store needs to focus on providing high-quality products and services to maintain and strengthen relationships with this group. Consider enhancing online marketing strategies to reach and attract this customer segment.
 
-**Customers over 45 years old with high spending power (Cluster 1):**
+**- Customers over 45 years old with high spending power (Cluster 1):**
 
 This group can be a stable customer base with high purchasing power. Special marketing strategies and promotions should be implemented to attract and retain this customer group. Provide good customer service to maintain long-term relationships and increase sales volume.
 
-**Customers aged 20-45 with moderate to low spending power (Cluster 2):**
+**- Customers aged 20-45 with moderate to low spending power (Cluster 2):**
 
 This could be a potential customer group for development but currently has limited spending. Create discount strategies, special offers, or lower-priced products to attract and retain this group. Develop membership programs or promotions specifically for this group to motivate additional purchases.
 
-**Customers over 45 years old with moderate to low spending power (Cluster 3):**
+**- Customers over 45 years old with moderate to low spending power (Cluster 3):**
 
 This group could be price-sensitive customers and may require persuasion to spend. Create attractive discount strategies and offers to attract and retain customers in this group. Enhance promotion of products with prices suitable for this customer segment.
 
@@ -214,6 +214,6 @@ This group could be price-sensitive customers and may require persuasion to spen
 
 Customer shopping trends analysis is a crucial tool that helps businesses gain a better understanding of consumers and provide effective marketing strategies. From data and charts, important conclusions can be drawn about customer groups and their shopping behaviors. Understanding customer shopping trends is the key to developing effective marketing strategies and optimizing sales revenue. By focusing on specific customer groups and meeting their needs, businesses can enhance customer relationships and achieve success in an increasingly competitive market.
 
-                            ![images](https://github.com/tiwienpham/Customer-Shopping-Trends/assets/119265751/fd1f0d97-94aa-4410-9ae9-f9b7b67802c9)
+![images](https://github.com/tiwienpham/Customer-Shopping-Trends/assets/119265751/6e515762-7b2b-474e-b2c3-2d2759a4fe8f)
 
 
