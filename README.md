@@ -45,7 +45,7 @@ This dataset encompasses various features related to customer shopping preferenc
 - Previous Purchases - The total count of transactions concluded by the customer at the store, excluding the ongoing transaction
 - Payment Method - Customer's most preferred payment method
 - Frequency of Purchases - Frequency at which the customer makes purchases (e.g., Weekly, Fortnightly, Monthly)
-- 
+
 ## Data Preparation.
 
 **1. Import Libraries.**
@@ -168,6 +168,7 @@ From the Top 10 Locations with Highest Purchase Amount chart, we can observe tha
 ## Clustering.
 
 **1. StandardScaler data.**
+
 **2. Using the elbow method to optimize clustering.**
 
 ![Inertia analysis according to parameter k](https://github.com/tiwienpham/Customer-Shopping-Trends/assets/119265751/0952fcf5-8140-4633-b82d-fdad0671d0ef)
@@ -213,6 +214,6 @@ This group could be price-sensitive customers and may require persuasion to spen
 
 Customer shopping trends analysis is a crucial tool that helps businesses gain a better understanding of consumers and provide effective marketing strategies. From data and charts, important conclusions can be drawn about customer groups and their shopping behaviors. Understanding customer shopping trends is the key to developing effective marketing strategies and optimizing sales revenue. By focusing on specific customer groups and meeting their needs, businesses can enhance customer relationships and achieve success in an increasingly competitive market.
 
-![images](https://github.com/tiwienpham/Customer-Shopping-Trends/assets/119265751/fd1f0d97-94aa-4410-9ae9-f9b7b67802c9)
+                            ![images](https://github.com/tiwienpham/Customer-Shopping-Trends/assets/119265751/fd1f0d97-94aa-4410-9ae9-f9b7b67802c9)
 
 
